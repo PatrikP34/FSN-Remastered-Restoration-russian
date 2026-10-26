@@ -2,7 +2,7 @@
 
 A local tool for combining an existing Russian translation of **Fate/stay night REMASTERED** with restored content from [FSN-Remastered-Restoration](https://github.com/Take00C/FSN-Remastered-Restoration).
 
-> [Русская версия документации](README.ru.md)
+> [Русская версия документации](README.md)
 
 This repository does **not** include the original game or game assets. You must obtain and use the required files from installations and sources you are legally entitled to access.
 
