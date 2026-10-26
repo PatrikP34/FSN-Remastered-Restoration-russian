@@ -74,7 +74,7 @@ patch00m.ru.bin
 
 ---
 
-## (Credits)
+## Credits
 
 ### Оригинальная игра
 
@@ -82,6 +82,7 @@ patch00m.ru.bin
 - **Команда Fate/stay night [Réalta Nua] Ultimate Edition** — Jacktheinfinite101, Quibi, Kotonoha и все участники, указанные в README проекта.
 - **Mirror Moon** — английский перевод, использованный для восстановления строк.
 - **Художники, выполнявшие демозаизацию изображений** — Bellandy и другие авторы, указанные в материалах Ultimate Edition.
+- [Take00C](https://github.com/Take00C/FSN-Remastered-Restoration)
 - **[kurikomoe/FSNr_tools](https://github.com/kurikomoe/FSNr_tools)** — исследования форматов REMASTERED-пакетов и EPK, а также работы, связанные с расшифровкой. `fsnr/fpd.py` и `fsnr/epk.py` основаны на этой работе. Подробности — в [`THIRD_PARTY.md`](THIRD_PARTY.md).
 - **[DaZombieKiller/FatePackageManager](https://github.com/DaZombieKiller/FatePackageManager)** — исследование формата игровых пакетов.
 - https://github.com/morluto/rea
@@ -100,7 +101,7 @@ patch00m.ru.bin
 
 ---
 
-## License)
+## License
 
 Код репозитория распространяется под лицензией **MIT**. Полный текст находится в [`LICENSE`](LICENSE). Информация о сторонних разработках и соответствующие уведомления приведены в [`THIRD_PARTY.md`](THIRD_PARTY.md).
 
